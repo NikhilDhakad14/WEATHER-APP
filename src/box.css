@@ -1,0 +1,15 @@
+.box{
+    border: 2px solid rgb(94, 39, 39);
+    border-radius: 20px;
+    width: 400px;
+    padding: 40px;
+    text-align: center;
+   
+    
+}
+#head{
+    font-size: xx-large;
+    margin-top: 0.1px;
+    margin-bottom: 0.5px;
+    
+}
