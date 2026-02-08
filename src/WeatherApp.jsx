@@ -17,7 +17,7 @@ export default function WeatherApp(){
     }
     return (
         
-        <div style={{textAligh:"centre"}}> 
+        <div style={{textAlign:"centre"}}> 
         
             <div className="box">
                 <h2 id="head">WEATHER TODAY APP</h2>
